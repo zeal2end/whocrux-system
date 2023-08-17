@@ -1,0 +1,2 @@
+class CONSTANTS:
+    INDEX_PROBLEM_ID = 1
